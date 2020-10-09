@@ -1,10 +1,3 @@
-# Nonogram/Griddler solver
-# Matthew Strawbridge
-# November 2009
-# --
-# Creative Commons Attribution 2.0 UK: England & Wales
-# http://creativecommons.org/licenses/by/2.0/uk/
-
 import sys
 
 # Define some character constants
