@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(void) {
+  int i;
+  for (i = 0; i < 5; i++)
+  {
+    printf("Hello World\n");
+  }
+}
+
+#####################################################################
+
+#include <stdio.h>
+
+int main(void) {
+  int i;
+  scanf ("%d",&i);
+  {
+    printf ("Integer = %d", i);
+  }
+}
